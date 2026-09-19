@@ -1,0 +1,6 @@
+Tipo,Fecha,Operario,Repuestos,Resultado_Horas,Insumos_Tecnico
+1,2023-01-10,Juan,1000.0,1,500.0
+1,2023-02-15,Pedro,9500.0,2,1000.0
+2,2023-03-20,Maria,2000.0,4,3000.0
+2,2023-04-25,Ana,8000.0,12,4000.0
+1,2023-05-30,Luis,500.0,3,150.0
